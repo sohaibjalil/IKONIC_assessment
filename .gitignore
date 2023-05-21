@@ -18,7 +18,7 @@
 # Configuration
 wp-config.php
 # Example themes
-
+wp-*.php
 # Example plugin
 /wp-content/plugins/hello.php
 
